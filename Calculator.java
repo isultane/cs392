@@ -1,6 +1,4 @@
 
-import static org.junit.Assert.assertEquals;
-import org.junit.Test;
 
 /**
  * This is demo on how to use JUnit testing
@@ -31,12 +29,6 @@ public class Calculator{
        else{
            return y;
        }
-    }
-
-    @Test 
-    public void testAdd(){
-        assertEquals(3, Max(2,3));
-        assertEquals(10, Max(10,5));
     }
 
 }
