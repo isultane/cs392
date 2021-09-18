@@ -1,4 +1,5 @@
 import static org.junit.jupiter.api.Assertions.assertEquals;
+
 import org.junit.Test;
 
 public class Measure{
@@ -12,7 +13,7 @@ public class Measure{
     }
 
     public static int Max(int x, int y){
-       if(x > y){
+       if( x >y){
            return x;
        }
        else{
@@ -22,10 +23,8 @@ public class Measure{
 
     @Test
     public void testMax(){
-        assertEquals(6, Max(5,6));
-        assertEquals(100, Max(100,80));
-        assertEquals(5, Max(5,5));
+       assertEquals(6, Max(5, 6));
+       assertEquals(6, Max(6, 5));
     }
-
 
 }
