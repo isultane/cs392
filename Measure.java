@@ -20,7 +20,7 @@ public class Measure{
      * This method compatre between two values and return the maximum one. 
      * @param x
      * @param y
-     * @return x or y the maxminmu
+     * @return x or y the maximum
      */
     public static int Max(int x, int y){
        if( x > y){
@@ -31,13 +31,10 @@ public class Measure{
        }
 
     }
-
     @Test
     public  void testMax() {
         assertEquals(200, Max(100, 200));
         assertEquals(200, Max(100, 200));
         assertEquals(100, Max(100, 100));
-
-
     }
 }

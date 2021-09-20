@@ -1,3 +1,4 @@
 Here is a guidline to help you get started to write unit tests using Junit. 
 
-[12-09-2021] Related work reading...    
+- unit test using traditional approach: desgin -> code -> test (loop)
+- unit test using TDD approach: desing -> test -> code  (loop)
