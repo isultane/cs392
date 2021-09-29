@@ -3,5 +3,9 @@
         "lib/**/*.jar",
         "C:\\Users\\Sultan\\Downloads\\junit-platform-console-standalone-1.6.0",
         "c:\\Users\\Sultan\\Downloads\\junit-platform-console-standalone-1.6.0.jar"
+    ],
+    "java.project.sourcePaths": [
+        "test driven development",
+        "singleton desgin pattern"
     ]
 }

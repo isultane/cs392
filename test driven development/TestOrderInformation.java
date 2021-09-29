@@ -5,8 +5,5 @@ public class TestOrderInformation {
    public void testOrderInformation(){
        OrderInformation order = new OrderInformation();
 
-       order.setCustomerName("Sultan");
-       order.setDrinkDescription("Describe your order here...");
-       order.setGit
    }
 }
