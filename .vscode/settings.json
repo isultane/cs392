@@ -5,6 +5,7 @@
         "c:\\Users\\Sultan\\Downloads\\junit-platform-console-standalone-1.6.0.jar"
     ],
     "java.project.sourcePaths": [
-        "singleton desgin pattern"
+        "singleton desgin pattern",
+        "adapter design pattern"
     ]
 }
