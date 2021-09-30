@@ -1,5 +1,5 @@
 
-public class Major {
+public  class Major {
     private static final Major major = new Major();
 
     private Major(){
