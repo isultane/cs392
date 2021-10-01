@@ -1,5 +1,5 @@
 
-public class Main {
+public class TestSingletonMain {
     public static void main(String[] args){
         Major mj1 = Major.getInstance();
         

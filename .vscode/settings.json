@@ -6,6 +6,7 @@
     ],
     "java.project.sourcePaths": [
         "singleton desgin pattern",
-        "adapter design pattern"
+        "adapter design pattern",
+        "facad design pattern"
     ]
 }
