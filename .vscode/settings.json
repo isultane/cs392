@@ -6,8 +6,9 @@
     ],
     "java.project.sourcePaths": [
         "singleton desgin pattern",
+        "observer design pattern",
         "facad design pattern",
         "adapter design pattern",
-        "observer design pattern"
+        "strategy desgin pattern"
     ]
 }
