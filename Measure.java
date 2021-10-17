@@ -7,6 +7,7 @@ import org.junit.Test;
  * @version 1.0
  */
 public class Measure{
+    
     public static void main(String[] args) {
         int a = 50;
         int b = 60;
@@ -14,6 +15,7 @@ public class Measure{
         int c = Max(a, b);
 
         System.out.println("Max of a and b = "+ c);
+
     }
 
     /**
